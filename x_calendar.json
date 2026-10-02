@@ -15,7 +15,9 @@
   "element": "雷",
   "lore": "眠らない街の電流を読む、俊敏な雷槍使い。高架下の残響を狐火に変えて走る。",
   "skill": "アーク・ドライブ",
+  "skill_desc": "敵の防壁を貫く三連雷槍。",
   "ultimate": "九重サンダーフォックス",
+  "ultimate_desc": "九つの雷尾が戦場を一気に駆け抜ける。",
   "image": "https://mtddzd5vw2-gif.github.io/denchu-collection/x/denchu_2026-10-04.jpg",
   "store": "https://apps.apple.com/jp/app/id6817256008"
  },
@@ -35,7 +37,9 @@
   "element": "爆",
   "lore": "ネオンの熱量を変形槌へ叩き込む快活な電姫。大振りだが、笑顔も衝撃波も派手。",
   "skill": "浪速爆閃",
+  "skill_desc": "変形ハンマーを杭打ち形態へ展開する。",
   "ultimate": "通天バースト",
+  "ultimate_desc": "上空まで跳ね上げた電圧を一点へ落とす。",
   "image": "https://mtddzd5vw2-gif.github.io/denchu-collection/x/denchu_2026-10-05.jpg",
   "store": "https://apps.apple.com/jp/app/id6817256008"
  },
@@ -55,7 +59,9 @@
   "element": "雪",
   "lore": "凍る送電線の歌を聴く北国の射手。磁場で軌道を曲げ、見えない角度から射抜く。",
   "skill": "白磁吹雪",
+  "skill_desc": "極性を反転させる氷磁の貫通矢。",
   "ultimate": "オーロラ・ゼロ",
+  "ultimate_desc": "戦場を極夜へ変えて全回路を凍結する。",
   "image": "https://mtddzd5vw2-gif.github.io/denchu-collection/x/denchu_2026-10-06.jpg",
   "store": "https://apps.apple.com/jp/app/id6817256008"
  },
@@ -75,7 +81,9 @@
   "element": "陽",
   "lore": "珊瑚礁の微細な電流と強い日差しを環へ蓄える守り手。二つの太陽輪で味方の回路を温める。",
   "skill": "珊瑚フレア",
+  "skill_desc": "太陽輪を反射させ、敵を焼き味方を励起する。",
   "ultimate": "琉球サンライズ",
+  "ultimate_desc": "海面から昇る光の環が戦場全体を浄化する。",
   "image": "https://mtddzd5vw2-gif.github.io/denchu-collection/x/denchu_2026-10-07.jpg",
   "store": "https://apps.apple.com/jp/app/id6817256008"
  },
@@ -95,7 +103,9 @@
   "element": "灯",
   "lore": "石畳を照らす記憶を扇へ畳む結界師。静かな一礼のあと、千の灯が敵を包む。",
   "skill": "千灯結界",
+  "skill_desc": "灯籠の結界で攻撃しながら守りを固める。",
   "ultimate": "祇園オーロラ",
+  "ultimate_desc": "夜空を染める光壁で味方を守り反撃する。",
   "image": "https://mtddzd5vw2-gif.github.io/denchu-collection/x/denchu_2026-10-08.jpg",
   "store": "https://apps.apple.com/jp/app/id6817256008"
  },
@@ -115,7 +125,9 @@
   "element": "祭",
   "lore": "祭の熱と屋台ネオンを拳甲へ充電する格闘家。短い間合いへ飛び込み、連打で電圧を上げる。",
   "skill": "山笠ラッシュ",
+  "skill_desc": "祭囃子のリズムで五連撃を叩き込む。",
   "ultimate": "天神ナイトドライブ",
+  "ultimate_desc": "街のネオンを拳へ集める超高速連撃。",
   "image": "https://mtddzd5vw2-gif.github.io/denchu-collection/x/denchu_2026-10-09.jpg",
   "store": "https://apps.apple.com/jp/app/id6817256008"
  },
@@ -135,7 +147,9 @@
   "element": "鋼",
   "lore": "金の装甲と変電機構を背負う重騎士。巨大な大剣は攻撃と送電防壁を瞬時に切り替える。",
   "skill": "金城グリッド",
+  "skill_desc": "大剣を地面へ接続し、反撃する送電城を作る。",
   "ultimate": "金鯱オーバードライブ",
+  "ultimate_desc": "全装甲を展開して黄金の突進砲へ変形する。",
   "image": "https://mtddzd5vw2-gif.github.io/denchu-collection/x/denchu_2026-10-10.jpg",
   "store": "https://apps.apple.com/jp/app/id6817256008"
  },
@@ -155,7 +169,9 @@
   "element": "潮",
   "lore": "港の風と海底ケーブルを渡る電流を双刃へ導く。穏やかな笑顔で戦況を反転させる。",
   "skill": "潮導リバース",
+  "skill_desc": "二本の潮刃で敵の電圧を味方へ戻す。",
   "ultimate": "蒼環ホライゾン",
+  "ultimate_desc": "水平線の共鳴波が連続して敵を切り裂く。",
   "image": "https://mtddzd5vw2-gif.github.io/denchu-collection/x/denchu_2026-10-11.jpg",
   "store": "https://apps.apple.com/jp/app/id6817256008"
  },
@@ -175,7 +191,9 @@
   "element": "環",
   "lore": "紅葉の軌道と路面電車の環状回路を輪刃へ写す舞闘士。静かな軌跡のあと衝撃だけが残る。",
   "skill": "紅電ループ",
+  "skill_desc": "軌道を描く二つの輪刃が何度も交差する。",
   "ultimate": "鳥居サーキット",
+  "ultimate_desc": "朱の回路門を連ね、敵を無限軌道へ閉じ込める。",
   "image": "https://mtddzd5vw2-gif.github.io/denchu-collection/x/denchu_2026-10-12.jpg",
   "store": "https://apps.apple.com/jp/app/id6817256008"
  },
@@ -195,7 +213,9 @@
   "element": "星",
   "lore": "七夕の願いを信号へ変える観測士。星図を読む長槍で、遠い回線同士を一瞬でつなぐ。",
   "skill": "星継リレー",
+  "skill_desc": "星座を結ぶように弱点を連続穿孔する。",
   "ultimate": "天河リンク",
+  "ultimate_desc": "天の川を模した超長距離信号を落とす。",
   "image": "https://mtddzd5vw2-gif.github.io/denchu-collection/x/denchu_2026-10-13.jpg",
   "store": "https://apps.apple.com/jp/app/id6817256008"
  },
@@ -215,7 +235,9 @@
   "element": "火",
   "lore": "大地の鼓動を砲身へ溜める南国の砲撃手。火山灰を払い、豪快な放電で道を開く。",
   "skill": "桜火サージ",
+  "skill_desc": "地熱充電した電磁砲を直射する。",
   "ultimate": "カルデラ・サン",
+  "ultimate_desc": "赤熱する巨大電核を戦場へ撃ち落とす。",
   "image": "https://mtddzd5vw2-gif.github.io/denchu-collection/x/denchu_2026-10-14.jpg",
   "store": "https://apps.apple.com/jp/app/id6817256008"
  },
@@ -235,7 +257,9 @@
   "element": "極",
   "lore": "果樹園を守る電流と北のオーロラを束ねる術士。小さな光球を実らせて回復へ変える。",
   "skill": "林檎パルス",
+  "skill_desc": "電果を弾けさせ、攻撃と同時に回路を修復。",
   "ultimate": "北天果樹園",
+  "ultimate_desc": "オーロラの樹冠から光の実を降らせる。",
   "image": "https://mtddzd5vw2-gif.github.io/denchu-collection/x/denchu_2026-10-15.jpg",
   "store": "https://apps.apple.com/jp/app/id6817256008"
  },
@@ -255,7 +279,9 @@
   "element": "算",
   "lore": "計算違いを責めず、黙って正しい桁へ戻す熟練技師。巨大な珠算格子で敵の防壁値を解き直す。",
   "skill": "桁上げブレイク",
+  "skill_desc": "電磁珠を一斉に繰り上げ、防壁の数値強度を崩す。",
   "ultimate": "播州百万桁アレイ",
+  "ultimate_desc": "百万桁の演算を一瞬で衝撃波へ変換する。",
   "image": "https://mtddzd5vw2-gif.github.io/denchu-collection/x/denchu_2026-10-16.jpg",
   "store": "https://apps.apple.com/jp/app/id6817256008"
  },
@@ -275,7 +301,9 @@
   "element": "時",
   "lore": "精密機器と山岳測量を三脚型端末へ収めた戦術家。到着も攻撃も予定時刻から一秒もずれない。",
   "skill": "デルタ測距",
+  "skill_desc": "三点測量で敵の次の位置を先読みする。",
   "ultimate": "信州クロノ・トライアングル",
+  "ultimate_desc": "三つの時標が行動時間を圧縮する。",
   "image": "https://mtddzd5vw2-gif.github.io/denchu-collection/x/denchu_2026-10-17.jpg",
   "store": "https://apps.apple.com/jp/app/id6817256008"
  },
@@ -295,7 +323,9 @@
   "element": "風",
   "lore": "房総の海風と花畑を機械傘へ畳む快活な案内役。旋回気流で仲間の足を軽くする。",
   "skill": "花弁タービン",
+  "skill_desc": "傘の風車が花弁状の電刃を散らす。",
   "ultimate": "房総フローラル・ゲイル",
+  "ultimate_desc": "半島を渡る追い風が連続攻撃を生む。",
   "image": "https://mtddzd5vw2-gif.github.io/denchu-collection/x/denchu_2026-10-18.jpg",
   "store": "https://apps.apple.com/jp/app/id6817256008"
  },
@@ -315,7 +345,9 @@
   "element": "箔",
   "lore": "金箔と加賀水引を四枚の導電屏風へ結ぶ調停者。礼節を守る限り、その結界は誰も拒まない。",
   "skill": "金箔折界",
+  "skill_desc": "屏風を折り畳み反射障壁を構成する。",
   "ultimate": "加賀百万箔結界",
+  "ultimate_desc": "百万の金箔が巨大な送電結界へ連なる。",
   "image": "https://mtddzd5vw2-gif.github.io/denchu-collection/x/denchu_2026-10-19.jpg",
   "store": "https://apps.apple.com/jp/app/id6817256008"
  },
@@ -335,7 +367,9 @@
   "element": "樹",
   "lore": "大宮盆栽の枝ぶりを回路設計へ読む実務家。巨大な剪定鋏で無駄な配線ごと切り落とす。",
   "skill": "万枝カット",
+  "skill_desc": "変圧鋏をX字に閉じて高圧を断つ。",
   "ultimate": "武蔵盆景・万枝整流",
+  "ultimate_desc": "枝状回路を一斉に剪定し電流を一点へ戻す。",
   "image": "https://mtddzd5vw2-gif.github.io/denchu-collection/x/denchu_2026-10-20.jpg",
   "store": "https://apps.apple.com/jp/app/id6817256008"
  },
@@ -355,7 +389,9 @@
   "element": "墨",
   "lore": "奈良墨を導電軌跡へ変える静かな教育係。大筆の一画で、乱れた回路も若い電姫も正しい流れへ導く。",
   "skill": "墨電封",
+  "skill_desc": "導電墨の一筆で敵の回路を封じる。",
   "ultimate": "大和墨界・一筆封電",
+  "ultimate_desc": "戦場全体を一枚の黒い回路図へ塗り替える。",
   "image": "https://mtddzd5vw2-gif.github.io/denchu-collection/x/denchu_2026-10-21.jpg",
   "store": "https://apps.apple.com/jp/app/id6817256008"
  },
@@ -375,7 +411,9 @@
   "element": "蒸",
   "lore": "茶の蒸熱工程を脚部タービンへ転用した行動派。夜明けと同時に起動し、返事より先に走り出す。",
   "skill": "蒸熱ステップ",
+  "skill_desc": "茶筅タービンの蹴撃で加速を重ねる。",
   "ultimate": "駿河ティー・ジェット",
+  "ultimate_desc": "富士風を背負い一条の蒸気光へ変わる。",
   "image": "https://mtddzd5vw2-gif.github.io/denchu-collection/x/denchu_2026-10-22.jpg",
   "store": "https://apps.apple.com/jp/app/id6817256008"
  },
@@ -395,7 +433,9 @@
   "element": "硝",
   "lore": "港の灯を座標として記憶し、霧の中でも最短の光路を見つける航海士。",
   "skill": "プリズム・サイト",
+  "skill_desc": "三角フレームで光路を測り一点へ収束する。",
   "ultimate": "稲佐硝光サルボ",
+  "ultimate_desc": "夜景の全灯火を測距済みの光弾へ変える。",
   "image": "https://mtddzd5vw2-gif.github.io/denchu-collection/x/denchu_2026-10-23.jpg",
   "store": "https://apps.apple.com/jp/app/id6817256008"
  },
@@ -415,7 +455,9 @@
   "element": "絹",
   "lore": "導電絹一本で交渉も戦闘も解く上州の調停者。柔らかな物腰のまま、判断だけは鋭い。",
   "skill": "繭界バインド",
+  "skill_desc": "見えない絹糸で防壁の継ぎ目を縛る。",
   "ultimate": "上州絹界・無縫",
+  "ultimate_desc": "継ぎ目のない絹の領域が敵を封じる。",
   "image": "https://mtddzd5vw2-gif.github.io/denchu-collection/x/denchu_2026-10-24.jpg",
   "store": "https://apps.apple.com/jp/app/id6817256008"
  },
@@ -435,7 +477,9 @@
   "element": "架",
   "lore": "瀬戸大橋の架橋技術を背部フレームへ宿す調整役。人も回路も、切るより最適な距離で結ぶことを選ぶ。",
   "skill": "架索クロスリンク",
+  "skill_desc": "複線ケーブルで敵と味方の電位をつなぐ。",
   "ultimate": "瀬戸大橋クロスリンク",
+  "ultimate_desc": "巨大な光橋が離れた全回路を同期する。",
   "image": "https://mtddzd5vw2-gif.github.io/denchu-collection/x/denchu_2026-10-25.jpg",
   "store": "https://apps.apple.com/jp/app/id6817256008"
  },
@@ -455,7 +499,9 @@
   "element": "杉",
   "lore": "秋田杉の曲げ技を積層装甲へ応用する現場指揮官。円い防壁で仲間ごと電流を受け止める。",
   "skill": "曲木輪壁",
+  "skill_desc": "木目回路を重ねた円盾で反撃する。",
   "ultimate": "大館曲木・千重砦",
+  "ultimate_desc": "幾重もの曲木障壁が送電城へ変形する。",
   "image": "https://mtddzd5vw2-gif.github.io/denchu-collection/x/denchu_2026-10-26.jpg",
   "store": "https://apps.apple.com/jp/app/id6817256008"
  },
@@ -475,7 +521,9 @@
   "element": "精",
   "lore": "燕三条の精密加工を速度へ振り切った工具技師。一ミクロンのずれも許さず、敵より先に測り終える。",
   "skill": "ミクロン・クロス",
+  "skill_desc": "翼状コンパスで誤差ゼロの交差斬り。",
   "ultimate": "燕三条ミクロン・クロス",
+  "ultimate_desc": "全測定結果を一筋の高速切断へ変換する。",
   "image": "https://mtddzd5vw2-gif.github.io/denchu-collection/x/denchu_2026-10-27.jpg",
   "store": "https://apps.apple.com/jp/app/id6817256008"
  },
@@ -495,7 +543,9 @@
   "element": "銀",
   "lore": "石見銀山の坑道保全を担う現場監督。安全灯と巻上機で退路を確保してから、誰より深くまで降りる。",
   "skill": "銀索ウインチ",
+  "skill_desc": "銀線で敵を固定し採掘ピックを引き込む。",
   "ultimate": "石見銀脈フルドライブ",
+  "ultimate_desc": "地下銀脈の電流を巻上機へ一気に通す。",
   "image": "https://mtddzd5vw2-gif.github.io/denchu-collection/x/denchu_2026-10-28.jpg",
   "store": "https://apps.apple.com/jp/app/id6817256008"
  },
@@ -515,7 +565,9 @@
   "element": "宙",
   "lore": "研究都市の観測網を片腕のパラボラへ集約する通信研究者。未知の信号だけは子どものように追う。",
   "skill": "軌道アップリンク",
+  "skill_desc": "衛星反射で死角へ電波弾を送り込む。",
   "ultimate": "筑波梅星アポジー",
+  "ultimate_desc": "成層圏から梅花型の信号雨を呼ぶ。",
   "image": "https://mtddzd5vw2-gif.github.io/denchu-collection/x/denchu_2026-10-29.jpg",
   "store": "https://apps.apple.com/jp/app/id6817256008"
  },
@@ -545,7 +597,9 @@
   "element": "響",
   "lore": "南部鉄器の炉温と響きを三基の自律炉へ記録する観測者。味方の波形を穏やかに整える。",
   "skill": "鉄響コーラス",
+  "skill_desc": "三基の炉が位相を合わせて衝撃波を放つ。",
   "ultimate": "南部鉄響オーケストラ",
+  "ultimate_desc": "鉄の倍音が戦場全体を共鳴させる。",
   "image": "https://mtddzd5vw2-gif.github.io/denchu-collection/x/denchu_2026-11-02.jpg",
   "store": "https://apps.apple.com/jp/app/id6817256008"
  },
@@ -565,7 +619,9 @@
   "element": "縫",
   "lore": "児島デニムを装甲へ縫い上げる服飾メカニック。率直な物言いと巨大ボビンで、破れも戦況もすぐ直す。",
   "skill": "藍電ステープル",
+  "skill_desc": "電動縫製器で防壁の裂け目を固定拡張する。",
   "ultimate": "児島インディゴ・ステッチ",
+  "ultimate_desc": "巨大な藍糸が敵回路を縫い止める。",
   "image": "https://mtddzd5vw2-gif.github.io/denchu-collection/x/denchu_2026-11-04.jpg",
   "store": "https://apps.apple.com/jp/app/id6817256008"
  },
@@ -585,7 +641,9 @@
   "element": "藺",
   "lore": "一本なら細い素材も、正しく織れば仲間を守れると知る寡黙な織機士。",
   "skill": "畳目グリッド",
+  "skill_desc": "格子状のい草回路で連続攻撃を分散する。",
   "ultimate": "肥後八畳・無限敷",
+  "ultimate_desc": "無限に続く織目が戦場を巨大な防壁へ変える。",
   "image": "https://mtddzd5vw2-gif.github.io/denchu-collection/x/denchu_2026-11-06.jpg",
   "store": "https://apps.apple.com/jp/app/id6817256008"
  },
@@ -605,7 +663,9 @@
   "element": "紅",
   "lore": "紅花の発色を電圧へ変える織機技師。巨大な杼で敵の防壁を一糸ずつほどいていく。",
   "skill": "紅花電織",
+  "skill_desc": "電磁杼が紅い導電糸を高速で編み込む。",
   "ultimate": "最上紅花・百反織",
+  "ultimate_desc": "百反の紅布が敵回路を覆い尽くす。",
   "image": "https://mtddzd5vw2-gif.github.io/denchu-collection/x/denchu_2026-11-09.jpg",
   "store": "https://apps.apple.com/jp/app/id6817256008"
  },
@@ -625,7 +685,9 @@
   "element": "弦",
   "lore": "琵琶湖の湖流を大型共鳴器で聴く音響士。沈黙も波形の一つとして扱い、最適な瞬間だけを鳴らす。",
   "skill": "湖流ソナー",
+  "skill_desc": "撥弦波で敵の位置と弱点を可視化する。",
   "ultimate": "琵琶湖八景レゾナンス",
+  "ultimate_desc": "八つの湖景が重なり巨大共鳴波となる。",
   "image": "https://mtddzd5vw2-gif.github.io/denchu-collection/x/denchu_2026-11-11.jpg",
   "store": "https://apps.apple.com/jp/app/id6817256008"
  },
@@ -645,7 +707,9 @@
   "element": "綿",
   "lore": "焦る仲間ほど柔らかく受け止め、余った力を次の航路へ蓄える繊維技師。",
   "skill": "白綿チャージ",
+  "skill_desc": "敵の余剰電流を吸収しHPへ変換する。",
   "ultimate": "来島白帆リザーバ",
+  "ultimate_desc": "海峡を渡る白帆が味方の電力を満たす。",
   "image": "https://mtddzd5vw2-gif.github.io/denchu-collection/x/denchu_2026-11-13.jpg",
   "store": "https://apps.apple.com/jp/app/id6817256008"
  },
@@ -665,7 +729,9 @@
   "element": "漆",
   "lore": "会津漆の絶縁層と赤べこの揺動機構を纏う安定化技師。逆境ほど姿勢も声もぶれない。",
   "skill": "朱漆バランサー",
+  "skill_desc": "揺動棍で衝撃を逃がしながら打ち返す。",
   "ultimate": "会津朱漆スタビライザ",
+  "ultimate_desc": "全衝撃を巨大な漆回路へ吸収する。",
   "image": "https://mtddzd5vw2-gif.github.io/denchu-collection/x/denchu_2026-11-16.jpg",
   "store": "https://apps.apple.com/jp/app/id6817256008"
  },
@@ -685,7 +751,9 @@
   "element": "砂",
   "lore": "砂丘の風紋を時間へ読む孤高の旅人。急がず止まらず、砂時計の最後の一粒で必ず勝負を決める。",
   "skill": "砂月刈り",
+  "skill_desc": "砂時計鎌が遅れて届く二段斬りを生む。",
   "ultimate": "鳥取砂暦・月蝕",
+  "ultimate_desc": "月蝕の一瞬に全砂粒を刃へ変える。",
   "image": "https://mtddzd5vw2-gif.github.io/denchu-collection/x/denchu_2026-11-18.jpg",
   "store": "https://apps.apple.com/jp/app/id6817256008"
  },
@@ -705,7 +773,9 @@
   "element": "泉",
   "lore": "熱すぎる力も冷えた心も、ちょうどよい温度へ戻す温泉設備士。",
   "skill": "湯脈チューニング",
+  "skill_desc": "温度差を整え回路を回復する。",
   "ultimate": "別府八湯サーマル・コーラス",
+  "ultimate_desc": "八つの熱交換音が味方全員を再起動する。",
   "image": "https://mtddzd5vw2-gif.github.io/denchu-collection/x/denchu_2026-11-20.jpg",
   "store": "https://apps.apple.com/jp/app/id6817256008"
  },
@@ -725,7 +795,9 @@
   "element": "陶",
   "lore": "益子の土と窯温を浮遊陶板へ焼き付ける朗らかな職人。割れたら直すより、もっと強く焼き直す。",
   "skill": "窯輪オービット",
+  "skill_desc": "陶板群を回転させて攻防を同時に行う。",
   "ultimate": "益子千窯セラミック",
+  "ultimate_desc": "千の窯火が巨大な耐熱防壁を焼成する。",
   "image": "https://mtddzd5vw2-gif.github.io/denchu-collection/x/denchu_2026-11-23.jpg",
   "store": "https://apps.apple.com/jp/app/id6817256008"
  },
@@ -745,7 +817,9 @@
   "element": "酸",
   "lore": "紀州梅の酸を蓄電化学へ応用する陽気な技師。背中の電解槽は大きいが、素材一滴も無駄にしない。",
   "skill": "梅酸スプレイ",
+  "skill_desc": "電解霧で敵を削り味方の回路を保護する。",
   "ultimate": "紀州プラム・ボルテージ",
+  "ultimate_desc": "巨大電池槽の全電圧を梅花状に放出する。",
   "image": "https://mtddzd5vw2-gif.github.io/denchu-collection/x/denchu_2026-11-25.jpg",
   "store": "https://apps.apple.com/jp/app/id6817256008"
  },
@@ -765,7 +839,9 @@
   "element": "泡",
   "lore": "海峡の往来を守る安全管理士。危険を膨らませず、球形網の中で静かに止める。",
   "skill": "泡檻キャプチャ",
+  "skill_desc": "球形網で敵の攻撃を包み込み減衰させる。",
   "ultimate": "関門バブル・コンテイン",
+  "ultimate_desc": "海峡幅の捕網を展開して全衝撃を封じる。",
   "image": "https://mtddzd5vw2-gif.github.io/denchu-collection/x/denchu_2026-11-27.jpg",
   "store": "https://apps.apple.com/jp/app/id6817256008"
  },
@@ -785,7 +861,9 @@
   "element": "薬",
   "lore": "配置薬とガラス工芸を浮遊アンプルへ統合した薬師。冷静な診断と乾いた冗談で回路を立て直す。",
   "skill": "玻璃アンプル",
+  "skill_desc": "薬液信号を連鎖させ攻撃効率を整える。",
   "ultimate": "立山玻璃メディカ",
+  "ultimate_desc": "立山の雪解けを思わせる修復波を放つ。",
   "image": "https://mtddzd5vw2-gif.github.io/denchu-collection/x/denchu_2026-11-30.jpg",
   "store": "https://apps.apple.com/jp/app/id6817256008"
  },
@@ -805,7 +883,9 @@
   "element": "珠",
   "lore": "海を敬い、養殖棚と仲間の状態を毎朝自分の目で確かめる海洋技師。真珠層を防壁へ育てる。",
   "skill": "珠層パルス",
+  "skill_desc": "真珠層を重ねるように防壁を形成して反射する。",
   "ultimate": "英虞湾パール・ネビュラ",
+  "ultimate_desc": "湾全体を包む真珠色の圧力星雲を展開する。",
   "image": "https://mtddzd5vw2-gif.github.io/denchu-collection/x/denchu_2026-12-02.jpg",
   "store": "https://apps.apple.com/jp/app/id6817256008"
  },
@@ -825,7 +905,9 @@
   "element": "浮",
   "lore": "地上の風を読み、最も静かな判断で誰より高く信号を運ぶ飛行監督。",
   "skill": "バーナー・リフト",
+  "skill_desc": "上昇流で味方の速度とSPを押し上げる。",
   "ultimate": "佐賀バルーン・ストラト",
+  "ultimate_desc": "成層圏から広域の電波を静かに降ろす。",
   "image": "https://mtddzd5vw2-gif.github.io/denchu-collection/x/denchu_2026-12-04.jpg",
   "store": "https://apps.apple.com/jp/app/id6817256008"
  },
@@ -845,7 +927,9 @@
   "element": "骨",
   "lore": "恐竜化石と鯖江光学を巨大発掘爪へ束ねる研究者。未知の地層を見れば安全確認より先に目が輝く。",
   "skill": "化石光跡",
+  "skill_desc": "光学照準した発掘爪で装甲層を剥がす。",
   "ultimate": "越前ダイナ・リブート",
+  "ultimate_desc": "太古の骨格信号を再起動して突撃する。",
   "image": "https://mtddzd5vw2-gif.github.io/denchu-collection/x/denchu_2026-12-07.jpg",
   "store": "https://apps.apple.com/jp/app/id6817256008"
  },
@@ -865,7 +949,9 @@
   "element": "渦",
   "lore": "感覚派に見えて、潮時だけは秒単位で読み切る高速航路士。渦芯へ入る一瞬を逃さない。",
   "skill": "渦芯ドリル",
+  "skill_desc": "回転流を一点へ絞り連続穿孔する。",
   "ultimate": "鳴門大渦・スパイラルゼロ",
+  "ultimate_desc": "巨大渦の中心を無圧領域へ反転させる。",
   "image": "https://mtddzd5vw2-gif.github.io/denchu-collection/x/denchu_2026-12-09.jpg",
   "store": "https://apps.apple.com/jp/app/id6817256008"
  },
@@ -885,7 +971,9 @@
   "element": "谷",
   "lore": "渓流の逆巻く場所ほど笑う漕手。荒い流れを力ではなく角度で越える。",
   "skill": "柱状パドル",
+  "skill_desc": "岩柱状の電流を櫂でまとめて打ち返す。",
   "ultimate": "高千穂峡・真名井フォール",
+  "ultimate_desc": "峡谷の落差を一撃の水電圧へ変換する。",
   "image": "https://mtddzd5vw2-gif.github.io/denchu-collection/x/denchu_2026-12-11.jpg",
   "store": "https://apps.apple.com/jp/app/id6817256008"
  },
@@ -905,7 +993,9 @@
   "element": "晶",
   "lore": "水晶の脈を一目で読む寡黙な研磨師。必要な一言と一撃だけで、光も会話も核心へ屈折させる。",
   "skill": "晶脈フレイル",
+  "skill_desc": "水晶振り子が軌道を分光して多重命中する。",
   "ultimate": "甲斐水晶プリズム",
+  "ultimate_desc": "巨大結晶で戦場の光を一点へ収束する。",
   "image": "https://mtddzd5vw2-gif.github.io/denchu-collection/x/denchu_2026-12-14.jpg",
   "store": "https://apps.apple.com/jp/app/id6817256008"
  },
@@ -925,7 +1015,9 @@
   "element": "律",
   "lore": "誰も置いていかない隊列を作る、豪快な笑顔の演舞監督。拍動のずれを戦力へ変える。",
   "skill": "四拍子ブレイク",
+  "skill_desc": "四方向の拍動波で防壁の周期を崩す。",
   "ultimate": "よさこい万雷シーケンス",
+  "ultimate_desc": "万雷の拍子で戦場全体を同期させる。",
   "image": "https://mtddzd5vw2-gif.github.io/denchu-collection/x/denchu_2026-12-16.jpg",
   "store": "https://apps.apple.com/jp/app/id6817256008"
  },
@@ -945,7 +1037,9 @@
   "element": "紙",
   "lore": "美濃和紙を自律折紙機へ変える即興設計者。ひらめきのまま折った一枚が戦況を反転させる。",
   "skill": "白鷺機群",
+  "skill_desc": "折紙ドローンが弱点へ一斉に折り込む。",
   "ultimate": "美濃紙・白鷺千機",
+  "ultimate_desc": "千羽の白鷺機が巨大な回路図を描く。",
   "image": "https://mtddzd5vw2-gif.github.io/denchu-collection/x/denchu_2026-12-18.jpg",
   "store": "https://apps.apple.com/jp/app/id6817256008"
  },
@@ -965,7 +1059,9 @@
   "element": "雷",
   "lore": "眠らない街の電流を読む、俊敏な雷槍使い。高架下の残響を狐火に変えて走る。",
   "skill": "アーク・ドライブ",
+  "skill_desc": "敵の防壁を貫く三連雷槍。",
   "ultimate": "九重サンダーフォックス",
+  "ultimate_desc": "九つの雷尾が戦場を一気に駆け抜ける。",
   "image": "https://mtddzd5vw2-gif.github.io/denchu-collection/x/denchu_2026-12-21.jpg",
   "store": "https://apps.apple.com/jp/app/id6817256008"
  },
@@ -985,7 +1081,9 @@
   "element": "爆",
   "lore": "ネオンの熱量を変形槌へ叩き込む快活な電姫。大振りだが、笑顔も衝撃波も派手。",
   "skill": "浪速爆閃",
+  "skill_desc": "変形ハンマーを杭打ち形態へ展開する。",
   "ultimate": "通天バースト",
+  "ultimate_desc": "上空まで跳ね上げた電圧を一点へ落とす。",
   "image": "https://mtddzd5vw2-gif.github.io/denchu-collection/x/denchu_2026-12-23.jpg",
   "store": "https://apps.apple.com/jp/app/id6817256008"
  },
@@ -1005,7 +1103,9 @@
   "element": "雪",
   "lore": "凍る送電線の歌を聴く北国の射手。磁場で軌道を曲げ、見えない角度から射抜く。",
   "skill": "白磁吹雪",
+  "skill_desc": "極性を反転させる氷磁の貫通矢。",
   "ultimate": "オーロラ・ゼロ",
+  "ultimate_desc": "戦場を極夜へ変えて全回路を凍結する。",
   "image": "https://mtddzd5vw2-gif.github.io/denchu-collection/x/denchu_2026-12-25.jpg",
   "store": "https://apps.apple.com/jp/app/id6817256008"
  },
@@ -1025,7 +1125,9 @@
   "element": "陽",
   "lore": "珊瑚礁の微細な電流と強い日差しを環へ蓄える守り手。二つの太陽輪で味方の回路を温める。",
   "skill": "珊瑚フレア",
+  "skill_desc": "太陽輪を反射させ、敵を焼き味方を励起する。",
   "ultimate": "琉球サンライズ",
+  "ultimate_desc": "海面から昇る光の環が戦場全体を浄化する。",
   "image": "https://mtddzd5vw2-gif.github.io/denchu-collection/x/denchu_2026-12-28.jpg",
   "store": "https://apps.apple.com/jp/app/id6817256008"
  },
@@ -1045,7 +1147,9 @@
   "element": "灯",
   "lore": "石畳を照らす記憶を扇へ畳む結界師。静かな一礼のあと、千の灯が敵を包む。",
   "skill": "千灯結界",
+  "skill_desc": "灯籠の結界で攻撃しながら守りを固める。",
   "ultimate": "祇園オーロラ",
+  "ultimate_desc": "夜空を染める光壁で味方を守り反撃する。",
   "image": "https://mtddzd5vw2-gif.github.io/denchu-collection/x/denchu_2026-12-30.jpg",
   "store": "https://apps.apple.com/jp/app/id6817256008"
  }
