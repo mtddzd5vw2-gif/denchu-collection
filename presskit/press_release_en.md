@@ -1,18 +1,3 @@
-# Press release (launch, English)
-
-> 送る日：2026年10月23日（金）。相手の国の平日の朝（イギリスの媒体は日本時間 17時ごろ、アメリカの媒体は 22時ごろ）。配信が始まったのを確かめてから。
-> 本文はメールに全文を貼る（`press_email_en.txt`）。添付はキービジュアル（英語）と GIF（英語）の2つだけ、ほかはプレスキットのリンクで。
-> 書いてよいのは配信する版（1.1）にあることだけ。"no in-app purchases" / "no ads" とは書かない（次の版で課金が入るため）。値段は "free"。
-> App Store の URL は国なしのもの（見る人の国のストアが開く）。
-
----
-
-**Subject:** [Press Release] Denchu Collection: scan the number plate on a Japanese utility pole and meet the girl who lives there. Out now on iPhone, free / Sanraku
-
----
-
-Dear 〔media name〕 team,
-
 FOR IMMEDIATE RELEASE — October 23, 2026, Japan
 
 ## Denchu Collection: every utility pole in Japan has a number plate, and a girl who lives there
